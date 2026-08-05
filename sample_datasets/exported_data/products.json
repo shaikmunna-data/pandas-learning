@@ -1,0 +1,30 @@
+[
+    {
+        "Product_ID":1,
+        "Product":"Laptop",
+        "Category":"Electronics",
+        "Price":65000,
+        "Stock":15
+    },
+    {
+        "Product_ID":2,
+        "Product":"Mouse",
+        "Category":"Accessories",
+        "Price":800,
+        "Stock":120
+    },
+    {
+        "Product_ID":3,
+        "Product":"Keyboard",
+        "Category":"Accessories",
+        "Price":1500,
+        "Stock":75
+    },
+    {
+        "Product_ID":4,
+        "Product":"Monitor",
+        "Category":"Electronics",
+        "Price":12000,
+        "Stock":30
+    }
+]
